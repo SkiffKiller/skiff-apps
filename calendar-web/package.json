@@ -181,7 +181,7 @@
     "long": "^5.2.0",
     "msw": "^0.48.0",
     "path-browserify": "^1.0.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.35",
     "postcss-loader": "^7.0.1",
     "protobufjs": "^7.2.4",
     "react-refresh": "^0.14.0",

@@ -61,7 +61,7 @@
     "esbuild-plugin-svgr": "^1.0.1",
     "esbuild-sass-plugin": "^2.2.6",
     "eslint-config-skiff-eslint": "workspace:*",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.35",
     "postcss-discard-comments": "^5.0.3",
     "prop-types": "15.8.1",
     "prop-types-extra": "1.1.1",

@@ -12702,6 +12702,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/styled-components@npm:5.1.26":
+  version: 5.1.26
+  resolution: "@types/styled-components@npm:5.1.26"
+  dependencies:
+    "@types/hoist-non-react-statics": "npm:*"
+    "@types/react": "npm:*"
+    csstype: "npm:^3.0.2"
+  checksum: e40c942c97f4467310c658608e7d02d6b9571d390d0fa519bdbd37e48ed2c605a6c9e464812c36d0a1339402bff65cb473b9e785288a29419d7af994595bba33
+  languageName: node
+  linkType: hard
+
 "@types/styled-components@npm:^5.1.24":
   version: 5.1.32
   resolution: "@types/styled-components@npm:5.1.32"
@@ -15724,7 +15735,7 @@ __metadata:
     notistack: "npm:^2.0.5"
     path-browserify: "npm:^1.0.1"
     pluralize: "npm:^8.0.0"
-    postcss: "npm:^8.4.31"
+    postcss: "npm:^8.4.35"
     postcss-loader: "npm:^7.0.1"
     protobufjs: "npm:^7.2.4"
     react: "npm:^17.0.2"
@@ -28315,14 +28326,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:>=8.4.31":
-  version: 8.4.32
-  resolution: "postcss@npm:8.4.32"
+"postcss@npm:>=8.4.35":
+  version: 8.4.35
+  resolution: "postcss@npm:8.4.35"
   dependencies:
     nanoid: "npm:^3.3.7"
     picocolors: "npm:^1.0.0"
     source-map-js: "npm:^1.0.2"
-  checksum: 28084864122f29148e1f632261c408444f5ead0e0b9ea9bd9729d0468818ebe73fe5dc0075acd50c1365dbe639b46a79cba27d355ec857723a24bc9af0f18525
+  checksum: 93a7ce50cd6188f5f486a9ca98950ad27c19dfed996c45c414fa242944497e4d084a8760d3537f078630226f2bd3c6ab84b813b488740f4432e7c7039cd73a20
   languageName: node
   linkType: hard
 
@@ -30523,11 +30534,6 @@ __metadata:
     "@types/node": "npm:20.9.0"
     "@types/pg": "npm:^8.6.4"
     "@types/prop-types": "npm:^15"
-    "@types/prosemirror-dev-tools": "npm:^3"
-    "@types/prosemirror-model": "npm:^1"
-    "@types/prosemirror-state": "npm:^1"
-    "@types/prosemirror-transform": "npm:^1.1.6"
-    "@types/prosemirror-view": "npm:1.23.1"
     "@types/react": "npm:17.0.30"
     "@types/react-dom": "npm:17.0.9"
     "@types/react-is": "npm:17.0.2"
@@ -30538,7 +30544,7 @@ __metadata:
     "@types/redux-logger": "npm:^3.0.9"
     "@types/semver": "npm:^7"
     "@types/source-map-support": "npm:^0"
-    "@types/styled-components": "npm:5.1.15"
+    "@types/styled-components": "npm:5.1.26"
     "@types/testing-library__jest-dom": "npm:^5"
     "@types/uuid": "npm:^8.3.4"
     "@types/validator": "npm:13.7.1"
@@ -31592,7 +31598,7 @@ __metadata:
     notistack: "npm:^2.0.3"
     path-browserify: "npm:^1.0.1"
     pluralize: "npm:^8.0.0"
-    postcss: "npm:^8.4.31"
+    postcss: "npm:^8.4.35"
     postcss-loader: "npm:^7.0.1"
     prosemirror-dev-tools: "npm:^3.1.0"
     prosemirror-model: "npm:^1.16.1"
@@ -32094,7 +32100,7 @@ __metadata:
     nightwatch-ui: "workspace:libs/nightwatch-ui"
     nullthrows: "npm:1.1.1"
     orderedmap: "npm:^1.1.1"
-    postcss: "npm:^8.4.31"
+    postcss: "npm:^8.4.35"
     postcss-discard-comments: "npm:^5.0.3"
     prop-types: "npm:15.8.1"
     prop-types-extra: "npm:1.1.1"
