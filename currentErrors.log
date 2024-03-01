@@ -1,0 +1,3 @@
+error TS5083: Cannot read file '/root/skiff-apps/libs/tsconfig.json'.
+tsconfig.json(4,9): error TS5069: Option 'declarationDir' cannot be specified without specifying option 'declaration' or option 'composite'.
+tsconfig.json(5,9): error TS5069: Option 'tsBuildInfoFile' cannot be specified without specifying option 'incremental' or option 'composite'.
