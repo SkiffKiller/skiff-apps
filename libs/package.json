@@ -11,6 +11,6 @@
     "-i,--interlaced": "Print the output of commands in real-time instead of buffering it",
     "-j,--jobs": "The maximum number of parallel tasks that the execution will be limited to",
     "-t,--topological": "Run the command after all workspaces it depends on (regular) have finished",
-    "build": "yarn workspace skiff-utils build && yarn workspace skiff-mail-protos build && yarn workspace skiff-graphql build && yarn workspace @skiff-org/skiff-crypto build && yarn workspace skiff-front-graphql build && yarn workspace skiff-front-utils build"
+    "build": "yarn workspace skiff-utils build && yarn workspace skiff-mail-protos build && yarn workspace skiff-graphql build && yarn workspace skiff-crypto build && yarn workspace skiff-front-graphql build && yarn workspace skiff-front-utils build"
   }
 }

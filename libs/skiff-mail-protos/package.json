@@ -21,7 +21,7 @@
     "watch": "WATCH=1 yarn build",
     "lint": "yarn run -T eslint . --cache --ext .js,.jsx,.ts,.tsx",
     "lint:fix": "yarn lint --fix",
-    "protogen": "protoc --ts_proto_opt=esModuleInterop=true --experimental_allow_proto3_optional --proto_path=../../protos/ --ts_proto_out generated/protos com/skiff/skemail/encrypted/encrypted_data.proto com/skiff/skemail/filters/filters.proto com/skiff/editor/encrypted/encrypted_data.proto"
+    "protogen": "protoc --ts_proto_opt=esModuleInterop=true --experimental_allow_proto3_optional --proto_path=../../protos/ --ts_proto_out generated/protos ../../protos/com/skiff/skemail/encrypted/encrypted_data.proto com/skiff/skemail/filters/filters.proto com/skiff/skemail/encrypted/encrypted_data.proto"
   },
   "devDependencies": {
     "@types/jest": "^28.1.1",

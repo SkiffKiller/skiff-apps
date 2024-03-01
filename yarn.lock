@@ -11450,12 +11450,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/css-modules-loader-core@npm:^1.1.0":
-  version: 1.1.4
-  resolution: "@types/css-modules-loader-core@npm:1.1.4"
+"@types/css-modules-loader-core@npm:1.1.0":
+  version: 1.1.0
+  resolution: "@types/css-modules-loader-core@npm:1.1.0"
   dependencies:
     postcss: "npm:7.x.x"
-  checksum: 62a82c0ccb7bfea12ca02d22cc90ed0ce1a55d8e28c35645ff15e48e2f0cf84408084cb6c266617d28cc86eab571d13f454d6c18e667754cb145609b50e3426d
+  checksum: aa611403d48abf9c5d9a37f33d903c0bac3f352155433e15423c594f4e845d9532baa623943a7a8ccf89075e09bc4d9a242d31a6f2988345d9250e47a8100996
   languageName: node
   linkType: hard
 

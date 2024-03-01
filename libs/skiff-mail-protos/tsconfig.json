@@ -9,5 +9,6 @@
     },
     "references": [
         { "path": "../skiff-graphql" }
-    ]
+    ],
+    "include": ["package.json"]
 }

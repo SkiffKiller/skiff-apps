@@ -146,7 +146,8 @@
     "bn.js": "5.2.1",
     "webpack": "^5.76.0",
     "@babel/plugin-transform-typescript": ">=7.20.0",
-    "@babel/types": ">=7.20.0"
+    "@babel/types": ">=7.20.0",
+    "@types/css-modules-loader-core": "1.1.0"
   },
   "dependencies": {
     "@apollo/client": "^3.5.10",

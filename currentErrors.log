@@ -1,9 +1,34 @@
-../../node_modules/@types/css-modules-loader-core/index.d.ts(27,20): error TS2315: Type 'Plugin' is not generic.
-../../node_modules/@types/css-modules-loader-core/index.d.ts(28,28): error TS2315: Type 'Plugin' is not generic.
-../../node_modules/@types/css-modules-loader-core/index.d.ts(29,28): error TS2315: Type 'Plugin' is not generic.
-../../node_modules/@types/css-modules-loader-core/index.d.ts(30,19): error TS2315: Type 'Plugin' is not generic.
-../../node_modules/@types/css-modules-loader-core/index.d.ts(31,34): error TS2315: Type 'Plugin' is not generic.
-../../node_modules/@types/css-modules-loader-core/index.d.ts(33,33): error TS2315: Type 'Plugin' is not generic.
-../../node_modules/@types/eslint/helpers.d.ts(1,6): error TS2300: Duplicate identifier 'Prepend'.
-../../node_modules/@types/eslint-scope/node_modules/@types/eslint/helpers.d.ts(1,6): error TS2300: Duplicate identifier 'Prepend'.
-../../node_modules/@types/prosemirror-keymap/index.d.ts(11,10): error TS2305: Module '"prosemirror-commands"' has no exported member 'Keymap'.
+Built skiff-utils
+Built skiff-mail-protos
+[STARTED] Parse Configuration
+[SUCCESS] Parse Configuration
+[STARTED] Generate outputs
+[STARTED] Generate to src/types.ts
+[STARTED] Generate to src/completeSchema.graphql
+[STARTED] Load GraphQL schemas
+[STARTED] Load GraphQL schemas
+[SUCCESS] Load GraphQL schemas
+[SUCCESS] Load GraphQL schemas
+[STARTED] Load GraphQL documents
+[STARTED] Load GraphQL documents
+[SUCCESS] Load GraphQL documents
+[SUCCESS] Load GraphQL documents
+[STARTED] Generate
+[STARTED] Generate
+[SUCCESS] Generate
+[SUCCESS] Generate
+[SUCCESS] Generate to src/types.ts
+[SUCCESS] Generate to src/completeSchema.graphql
+[SUCCESS] Generate outputs
+Built skiff-graphql
+Built skiff-crypto
+[STARTED] Parse Configuration
+[SUCCESS] Parse Configuration
+[STARTED] Generate outputs
+[STARTED] Generate to ./generated/graphql.tsx
+[STARTED] Load GraphQL schemas
+[SUCCESS] Load GraphQL schemas
+[STARTED] Load GraphQL documents
+[SUCCESS] Load GraphQL documents
+[STARTED] Generate
+[SUCCESS] Generate outputs
