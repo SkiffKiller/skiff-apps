@@ -1,9 +1,9 @@
 {
-    "extends": "../tsconfig.json",
     "compilerOptions": {
         "declarationDir": "dist/",
         "tsBuildInfoFile": "dist/.tsbuildinfo",
-        "resolveJsonModule": true
+        "resolveJsonModule": true,
+        "composite": true
     },
     "exclude": ["dist"],
     "include": ["src/**/*.ts", "src/emailUtils/familiarNames.json"]

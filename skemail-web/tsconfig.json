@@ -1,5 +1,5 @@
 {
-  "extends": "../../tsconfig.json",
+  "extends": "../tsconfig.json",
   "compilerOptions": {
     "jsx": "preserve",
     "allowJs": true,
@@ -16,11 +16,10 @@
   "include": ["**/*.ts", "**/*.svg", "**/*.tsx", "**/*.js", "**/*.jsx", "**/*.json"],
   "exclude": ["node_modules", "dist"],
   "references": [
-    { "path": "../../libs/skiff-crypto" },
-    { "path": "../../libs/skiff-front-search" },
-    { "path": "../../libs/skiff-front-utils" },
-    { "path": "../../libs/skiff-graphql" },
-    { "path": "../../libs/skiff-front-graphql" },
-    { "path": "../../libs/skiff-utils" }
+    { "path": "../libs/skiff-front-search" },
+    { "path": "../libs/skiff-front-utils" },
+    { "path": "../libs/skiff-graphql" },
+    { "path": "../libs/skiff-front-graphql" },
+    { "path": "../libs/skiff-utils" }
   ]
 }

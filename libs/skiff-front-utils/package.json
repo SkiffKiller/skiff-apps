@@ -83,6 +83,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.3.20",
+    "@cosmjs/encoding": "^0.32.2",
     "@date-io/date-fns": "2.16.0",
     "@floating-ui/react-dom-interactions": "^0.11.0",
     "@hcaptcha/react-hcaptcha": "^1.8.1",

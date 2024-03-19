@@ -133,9 +133,9 @@ export type AliasesOnDomainResponse = {
 };
 
 export enum AscDesc {
-  Asc = 'ASC',
-  Desc = 'DESC'
-}
+    Asc = 'ASC',
+    Desc = 'DESC'
+  }
 
 export type Attachment = {
   __typename?: 'Attachment';

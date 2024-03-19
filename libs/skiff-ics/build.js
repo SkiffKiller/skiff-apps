@@ -52,7 +52,7 @@ if (WATCH) {
 Promise.all([
   esbuild.build(esbuildConf('cjs')),
   esbuild.build(esbuildConf('esm')),
-  WATCH ? spawn('yarn tsc -b --preserveWatchOutput -w') : spawn('yarn tsc -b')
+  WATCH ? spawn('npx tsc -b --preserveWatchOutput -w') : spawn('npx tsc -b')
 ])
   .then(() => {
     console.log(`Built ${packagejson.name}`);

@@ -1,6 +1,6 @@
 {
-    "extends": "../tsconfig.json",
     "compilerOptions": {
+        "composite": true,
         "outDir": "dist/cjs",
         "declarationDir": "dist/",
         "target": "ES6",
@@ -8,9 +8,5 @@
         "tsBuildInfoFile": "dist/.tsbuildinfo",
         "noUncheckedIndexedAccess": true
     },
-    "references": [
-        { "path" : "../skiff-graphql"},
-        { "path" : "../skiff-utils"}
-    ],
-    "include": ["package.json"]
+    "include": ["package.json", "src/*"]
 }

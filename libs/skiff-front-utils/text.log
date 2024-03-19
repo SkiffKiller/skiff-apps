@@ -1,0 +1,52 @@
+error TS5055: Cannot write file '/root/skiff-apps/libs/nightwatch-ui/build.js' because it would overwrite input file.
+../skiff-front-graphql/build.js(8,29): error TS6307: File '/root/skiff-apps/libs/skiff-front-graphql/package.json' is not listed within the file list of project '/root/skiff-apps/libs/skiff-front-graphql/tsconfig.json'. Projects must list all files or use an 'include' pattern.
+../skiff-front-graphql/generated/graphql.tsx(1,24): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`
+../skiff-front-graphql/generated/graphql.tsx(2,15): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`
+../skiff-front-graphql/src/crypto/draftDatagram.ts(1,43): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/draftDatagram.ts(2,31): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`
+../skiff-front-graphql/src/crypto/v2/email.ts(2,46): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v2/email.ts(18,8): error TS7016: Could not find a declaration file for module 'skiff-mail-protos'. '/root/skiff-apps/libs/skiff-mail-protos/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-mail-protos` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-mail-protos';`
+../skiff-front-graphql/src/crypto/encryptMessageUtils.ts(3,63): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/encryptMessageUtils.ts(4,35): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/encryptMessageUtils.ts(12,8): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`
+../skiff-front-graphql/src/crypto/v1/datagramClasses.ts(6,79): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v1/datagramClasses.ts(33,13): error TS7006: Parameter 'data' implicitly has an 'any' type.
+../skiff-front-graphql/src/crypto/v1/datagramClasses.ts(41,15): error TS7006: Parameter 'data' implicitly has an 'any' type.
+../skiff-front-graphql/src/crypto/v1/datagramClasses.ts(41,21): error TS7006: Parameter 'version' implicitly has an 'any' type.
+../skiff-front-graphql/src/models/user.ts(1,53): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`
+../skiff-front-graphql/src/crypto/v1/user.ts(19,8): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v1/user.ts(20,78): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`
+../skiff-front-graphql/src/crypto/v1/lib/datagramClasses.ts(3,43): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v2/thumbnail.ts(2,46): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v2/thumbnail.ts(3,62): error TS7016: Could not find a declaration file for module 'skiff-mail-protos'. '/root/skiff-apps/libs/skiff-mail-protos/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-mail-protos` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-mail-protos';`
+../skiff-front-graphql/src/crypto/v2/contact.ts(2,46): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v2/contact.ts(3,66): error TS7016: Could not find a declaration file for module 'skiff-mail-protos'. '/root/skiff-apps/libs/skiff-mail-protos/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-mail-protos` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-mail-protos';`
+../skiff-front-graphql/src/crypto/v2/filters.ts(2,46): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v2/filters.ts(3,70): error TS7016: Could not find a declaration file for module 'skiff-mail-protos'. '/root/skiff-apps/libs/skiff-mail-protos/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-mail-protos` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-mail-protos';`
+../skiff-front-graphql/src/user/unreadData.ts(3,79): error TS2305: Module '"../graphql"' has no exported member 'SystemLabels'.
+../skiff-front-graphql/src/crypto/v2/alias.ts(2,46): error TS7016: Could not find a declaration file for module 'skiff-crypto'. '/root/skiff-apps/libs/skiff-crypto/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-crypto` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-crypto';`
+../skiff-front-graphql/src/crypto/v2/alias.ts(3,62): error TS7016: Could not find a declaration file for module 'skiff-mail-protos'. '/root/skiff-apps/libs/skiff-mail-protos/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-mail-protos` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-mail-protos';`
+../skiff-front-graphql/src/hooks/useSubscriptionPlan.ts(2,41): error TS7016: Could not find a declaration file for module 'skiff-graphql'. '/root/skiff-apps/libs/skiff-graphql/dist/cjs/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/skiff-graphql` if it exists or add a new declaration (.d.ts) file containing `declare module 'skiff-graphql';`

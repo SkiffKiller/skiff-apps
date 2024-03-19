@@ -1,6 +1,0 @@
-# built files
-src/**/*.js
-src/**/*.js.map
-
-# .yarn
-.yarn/*

@@ -1,4 +1,3 @@
-require('eslint-config-skiff-eslint/backend');
 module.exports = {
   extends: ['skiff-eslint/backend'],
   parserOptions: {
